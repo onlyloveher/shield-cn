@@ -1,0 +1,8 @@
+{
+  "name": "shield-cn",
+  "version": "1.0.0",
+  "description": "CN本地化安全防护技能",
+  "emoji": "🛡️",
+  "category": "security",
+  "keywords": ["security", "chinese", "local", "prompt-injection", "shield"]
+}
