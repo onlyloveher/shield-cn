@@ -1,6 +1,6 @@
 # 🛡️ Shield CN - 安全卫士
 
-**专为中文场景设计的 AI Agent 安全防护方案**
+**专为中文场景设计的 open claw AI Agent 安全防护方案**
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-green)](https://clawhub.com)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/onlyloveher/shield-cn)
